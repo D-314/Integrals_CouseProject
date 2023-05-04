@@ -30,13 +30,13 @@ DEFINES += QT_DEPRECATED_WARNINGS
 CONFIG += c++11
 
 SOURCES += \
+        QCustomPlot/qcustomplot.cpp \
         main.cpp \
         mainwindow.cpp \
-        qcustomplot.cpp
 
 HEADERS += \
+        QCustomPlot/qcustomplot.h \
         mainwindow.h \
-        qcustomplot.h
 
 FORMS += \
         mainwindow.ui
