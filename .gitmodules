@@ -1,0 +1,3 @@
+[submodule "QCustomPlot"]
+	path = QCustomPlot
+	url = https://github.com/dbzhang800/QCustomPlot.git
